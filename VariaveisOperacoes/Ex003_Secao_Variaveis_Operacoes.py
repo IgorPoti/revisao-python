@@ -1,4 +1,4 @@
-#Exercício 004 - Referente aos tipos de variaveis e operacoes - Revisão Igor
+#Exercício 003 - Referente aos tipos de variaveis e operacoes - Revisão Igor
 
 print('----------Bem Vindo ao menu----------')
 print('--------------Crie o seu personagem---------------')

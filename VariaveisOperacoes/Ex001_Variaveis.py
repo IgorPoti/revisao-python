@@ -1,4 +1,4 @@
-#Exercício 002 - Referente aos tipos de variaveis - Revisão João Igor
+#Exercício 001 - Referente aos tipos de variaveis - Revisão João Igor
 
 nome = input('Nome do aluno:')
 nota = input('Digite a nota do aluno:')

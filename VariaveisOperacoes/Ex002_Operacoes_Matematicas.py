@@ -1,6 +1,6 @@
 #Exercício 003 - Referente a operações matemáticas dentro do Python - Revisão João Igor
 
-"""
+
 #1 - Realizar média de 4 alunos
 
 aluno01 = float(input('Insira a nota do aluno 01'))
@@ -12,7 +12,7 @@ mediaAlunos = ((aluno01 + aluno02 + aluno03 + aluno04) / 4)
 
 print(f'A média dos alunos da turma é {mediaAlunos}')
 
-"""
+
 
 #2 - Converter uma temperatura de graus °C para ºF e para K
 
